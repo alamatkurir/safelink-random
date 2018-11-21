@@ -1,0 +1,2 @@
+# safelink-random
+file1
